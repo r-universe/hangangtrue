@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ONEST",
+    "oncran": true
+  },
+  {
+    "package": "RPEXE.RPEXT",
+    "oncran": true
+  }
+]
