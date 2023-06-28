@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ONEST"]
 	path = ONEST
 	url = https://github.com/hangangtrue/onest
-	shallow = true
-	registered = true
 [submodule "RPEXE.RPEXT"]
 	path = RPEXE.RPEXT
 	url = https://github.com/hangangtrue/rpexe.rpext
-	shallow = true
-	registered = true
